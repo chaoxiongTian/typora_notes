@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: ../pic
+---
+
 ### git 简单记录
 
 **需求**:
