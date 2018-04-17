@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: ..\..\pic
+---
+
 ### Java 复习基础
 
 1. 数据类型：由低到高
@@ -344,9 +348,14 @@ public static void main(String[] args){
 
 17.  程序运行会有两个过程:编译过程和运行过程.
 
-```
+Java程序从源文件创建到程序运行要经过两大步骤：
 
-```
+1. 源文件由编译器编译成字节码（ByteCode）；
+2. 字节码由java虚拟机解释运行。
+
+因为java程序既要编译同时也要经过JVM的解释运行，所以说Java被称为半解释语言
+
+（ "semi-interpreted" language）
 
 18. 内部类:一个类定义在另一个类内部.
 
