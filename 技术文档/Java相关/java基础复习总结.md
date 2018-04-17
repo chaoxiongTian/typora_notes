@@ -246,9 +246,9 @@ public class TestMain implements TestInterface
 15. 抽象类和接口异同点.
 
 ```java
-1. 接口所有方法都具有public 和abstract。
+1. 接口所有方法都具有public和abstract。
 您不能通过试图减少方法的可访问性来覆盖此行为。
-您甚至不能声明静态（static）方法。只有public 和abstract。
+您甚至不能声明静态（static）方法。只有public和abstract。
 另一方面，抽象类在声明方法时是灵活的。
 您还可以定义protected的抽象方法。
 此外，还可以定义静态方法，前提是它们不是抽象的。允许使用非抽象静态方法。
@@ -259,4 +259,100 @@ public class TestMain implements TestInterface
 一个类只能继承一个类，但可以实现任意数量的接口。Java用此特性模拟多继承。
 4. 接口是完全抽象的，不能被实例化；Java抽象类也不能实例化，但可以被调用，如果main()存在。 
 ```
+
+16. 多态
+
+```java
+1. 多态的体现方面：
+我们使用多态的时候，创建的是父类的引用，开辟的是子类的空间.
+由于没有开辟父类的空间，所以是父类的引用指向子类对象，并不是真正的父类自己创建了对象.
+而且父类对象的引用还可以作为函数参数来接收子类对象哦！
+2. 多态实现的前提:
+必须是类与类之间要有关系，要么继承，要么实现，存在覆盖，其实就是有抽象函数。
+3. 从多态的好处:
+大大提高程序的可拓展性
+4. 多态的应用：
+父类对象的引用指向子类对象，其实本质上是一个向上转型，就像int转成double一样，儿子穿了一身爸爸的衣服，扮成了爸爸。
+但变成了爸爸之后，只能使用爸爸特有的技能，儿子怎么能够使用自己本身的技能呢？
+这时候就需要向下转型，脱下伪装，将父类对象的引用强转成子类类型，就可以使用子类特有的技能了。
+```
+
+```java
+//实例
+三大前提:要有继承关系 子类要重写父类的方法 父类引用指向子类对
+```
+
+```java
+父类Animal
+class Animal {
+	int num = 10;
+	static int age = 20;
+	public void eat() {
+		System.out.println("动物吃饭");
+	}
+	public static void sleep() {
+		System.out.println("动物在睡觉");
+	}
+	public void run(){
+		System.out.println("动物在奔跑");
+	}
+}
+```
+
+```java
+子类Cat
+class Cat extends Animal {
+	int num = 80;
+	static int age = 90;
+	String name = "tomCat";
+	public void eat() {
+		System.out.println("猫吃饭");
+	}
+	public static void sleep() {
+		System.out.println("猫在睡觉");
+	}
+	public void catchMouse() {
+		System.out.println("猫在抓老鼠");
+	}
+}
+```
+
+```java
+测试类Demo_Test1
+class Demo_Test1 {
+public static void main(String[] args){
+	Animal am = new Cat();
+	am.eat();
+	am.sleep();
+	am.run();
+	//am.catchMouse(); //无法调用子类方法
+	//System.out.println(am.name);//无法调用子类成员变量
+	System.out.println(am.num);
+	System.out.println(am.age);
+	}
+}
+```
+
+```java
+输出:
+猫吃饭
+动物在睡觉
+动物在奔跑
+10
+20
+```
+
+17.  程序运行会有两个过程:编译过程和运行过程.
+
+```
+
+```
+
+18. 内部类:一个类定义在另一个类内部.
+
+```java
+
+```
+
+19. 进程和线程
 
