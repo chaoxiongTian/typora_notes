@@ -13,6 +13,9 @@
 4. final详解[文章地址](https://www.cnblogs.com/dotgua/p/6357951.html)
 5. java中内部类的总结[文章地址](https://www.cnblogs.com/hasse/p/5020519.html)
 6. java中this和super的使用.[文章地址](http://www.cnblogs.com/hasse/p/5023392.html)
-7. ​
+7. 进程和线程产生的原因. [文章地址](http://www.cnblogs.com/dolphin0520/p/3910667.html)
+8. 如何创建线程[文章地址](http://www.cnblogs.com/dolphin0520/p/3913517.html)
+
+
 
 
