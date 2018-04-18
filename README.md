@@ -23,3 +23,28 @@ java 并发编程相关
 
 1. JAVA多线程和并发基础面试问答[文章地址](http://www.cnblogs.com/dolphin0520/p/3932934.html)
 2. Java线程面试题 Top 50 [文章地址](http://www.cnblogs.com/dolphin0520/p/3958019.html)
+3. java字符流和字节流的区别 [文章地址](https://blog.csdn.net/sunhuaqiang1/article/details/52756999)
+4. java中PriorityQueue优先级队列使用方法 [文章地址](https://blog.csdn.net/hiphopmattshi/article/details/7334487)
+
+
+
+学习进展
+
+| 时间       | 编程题  | 知识点                                      |
+| :------- | ---- | ---------------------------------------- |
+| 4.18(周三) | 0道   | [创建线程](http://www.cnblogs.com/dolphin0520/p/3913517.html) |
+| 4.19(周四) |      |                                          |
+| 4.20(周五) |      |                                          |
+| 4.21(周六) |      |                                          |
+| 4.22(周日) |      |                                          |
+| 4.23(周一) |      |                                          |
+| 4.24(周二) |      |                                          |
+| 4.25(周三) |      |                                          |
+| 4.26(周四) |      |                                          |
+| 4.27(周五) |      |                                          |
+| 4.28(周六) |      |                                          |
+| 4.29(周日) |      |                                          |
+| 4.30(周一) |      |                                          |
+|          |      |                                          |
+|          |      |                                          |
+
