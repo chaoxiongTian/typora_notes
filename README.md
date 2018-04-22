@@ -15,6 +15,7 @@
 4. java中内部类的总结[文章地址](https://www.cnblogs.com/hasse/p/5020519.html)
 5. 理解java中的String[文章地址](https://www.cnblogs.com/xiaoxi/p/6036701.html)  [类使用实例](https://github.com/chaoxiongTian/algorithm/blob/master/Algorithm_java_idea/src/com/chaoxiong/niuke/huawei/StringUser.java)
 6. 理解java中的ArrayList [文章地址](http://www.cnblogs.com/xiaoxi/p/6097932.html)
+7. 理解java注解(annotation)[文章地址](https://blog.csdn.net/briblue/article/details/73824058)
 
 #### 关键字相关:
 
@@ -29,7 +30,7 @@
 1. 进程和线程产生的原因. [文章地址](http://www.cnblogs.com/dolphin0520/p/3910667.html)
 2. 如何创建线程[文章地址](http://www.cnblogs.com/dolphin0520/p/3913517.html)
 
-#### java 并发编程相关
+#### java 编程相关
 
 1. JAVA多线程和并发基础面试问答[文章地址](http://www.cnblogs.com/dolphin0520/p/3932934.html)
 2. Java线程面试题 Top 50 [文章地址](http://www.cnblogs.com/dolphin0520/p/3958019.html)
