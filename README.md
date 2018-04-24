@@ -16,6 +16,7 @@
 5. 理解java中的String[文章地址](https://www.cnblogs.com/xiaoxi/p/6036701.html)  [类使用实例](https://github.com/chaoxiongTian/algorithm/blob/master/Algorithm_java_idea/src/com/chaoxiong/niuke/huawei/StringUser.java)
 6. 理解java中的ArrayList [文章地址](http://www.cnblogs.com/xiaoxi/p/6097932.html)
 7. 理解java注解(annotation)[文章地址](https://blog.csdn.net/briblue/article/details/73824058)
+8. java字符流和字节流的区别 [文章地址](https://blog.csdn.net/sunhuaqiang1/article/details/52756999) [文章2地址,详细讲操作](www.cnblogs.com/lich/archive/2011/12/11/2283700.html)
 
 #### 关键字相关:
 
@@ -34,7 +35,7 @@
 
 1. JAVA多线程和并发基础面试问答[文章地址](http://www.cnblogs.com/dolphin0520/p/3932934.html)
 2. Java线程面试题 Top 50 [文章地址](http://www.cnblogs.com/dolphin0520/p/3958019.html)
-3. java字符流和字节流的区别 [文章地址](https://blog.csdn.net/sunhuaqiang1/article/details/52756999)
+3. ​
 4. java中PriorityQueue优先级队列使用方法(针对对象中某一项进行排序) [文章地址](https://blog.csdn.net/hiphopmattshi/article/details/7334487)  [代码案例](https://github.com/chaoxiongTian/algorithm/blob/master/Algorithm_java_idea/src/com/chaoxiong/niuke/huawei/priorityQueue.java)
 5. 精选30道Java笔试题解答[文章地址](http://www.cnblogs.com/lanxuezaipiao/p/3371224.html)
 6. 编程面试的10大算法概念汇总 [文章地址](http://www.cnblogs.com/lanxuezaipiao/p/3447757.html)
