@@ -17,6 +17,7 @@
 6. 理解 java ArrayList [文章地址](http://www.cnblogs.com/xiaoxi/p/6097932.html)
 7. 理解 java annotation[文章地址](https://blog.csdn.net/briblue/article/details/73824058)
 8. 理解 java 流的概念 [文章地址](https://blog.csdn.net/sunhuaqiang1/article/details/52756999) [文章2地址,详细讲操作](www.cnblogs.com/lich/archive/2011/12/11/2283700.html)
+9. List,Set和Map详解及其区别和他们分别适用的场景 [文章地址](https://blog.csdn.net/weixin_36380516/article/details/54908418)
 
 #### 关键字相关:
 
