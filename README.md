@@ -22,7 +22,7 @@
 
 1. 关键字: final [文章地址](https://www.cnblogs.com/dotgua/p/6357951.html)
 2. 关键字: this,super [文章地址](http://www.cnblogs.com/hasse/p/5023392.html)
-3. 关键字: transient [文章地址](http://www.cnblogs.com/lanxuezaipiao/p/3369962.html)
+3. 关键字: transient(敏感信息不被序列化) [文章地址](http://www.cnblogs.com/lanxuezaipiao/p/3369962.html)
 
 #### java 并发编程(线程与进程):
 
@@ -34,9 +34,10 @@
 1. java 多线程和并发基础面试问答 [文章地址](http://www.cnblogs.com/dolphin0520/p/3932934.html)
 2. java 线程面试题 Top 50 [文章地址](http://www.cnblogs.com/dolphin0520/p/3958019.html)
 3. java PriorityQueue优先级队列使用方法(针对对象中某一项进行排序) [文章地址](https://blog.csdn.net/hiphopmattshi/article/details/7334487)  [代码案例](https://github.com/chaoxiongTian/algorithm/blob/master/Algorithm_java_idea/src/com/chaoxiong/niuke/huawei/priorityQueue.java)
-4. 精选30道Java笔试题解答[文章地址](http://www.cnblogs.com/lanxuezaipiao/p/3371224.html)
-5. 编程面试的10大算法概念汇总 [文章地址](http://www.cnblogs.com/lanxuezaipiao/p/3447757.html)
-6. java编程思想重点笔记(java开发必看) [文章地址](http://www.cnblogs.com/lanxuezaipiao/p/4153070.html)
+4. java中的TreeSet的使用 [文章地址](https://blog.csdn.net/xiaofei__/article/details/53138681) [代码地址](https://github.com/chaoxiongTian/algorithm/blob/master/Algorithm_java_idea/src/com/chaoxiong/niuke/huawei/CusTreeSet.java)
+5. 精选30道Java笔试题解答[文章地址](http://www.cnblogs.com/lanxuezaipiao/p/3371224.html)
+6. 编程面试的10大算法概念汇总 [文章地址](http://www.cnblogs.com/lanxuezaipiao/p/3447757.html)
+7. java编程思想重点笔记(java开发必看) [文章地址](http://www.cnblogs.com/lanxuezaipiao/p/4153070.html)
 
 
 #### 经典算法
@@ -45,23 +46,5 @@
 2. [二进制中1的个数](https://github.com/chaoxiongTian/algorithm/blob/master/Algorithm_java_idea/src/com/chaoxiong/niuke/huawei/ClassicsArithmetic.java)
 
 
-学习进展
 
-| 时间       |                   编程题                    |                   知识点                    | 书    |
-| :------- | :--------------------------------------: | :--------------------------------------: | ---- |
-| 4.18(周三) | [素数](https://github.com/chaoxiongTian/algorithm/blob/master/Algorithm_java_idea/src/com/chaoxiong/niuke/huawei/ClassicsArithmetic.java) [二进制中1的个数](https://github.com/chaoxiongTian/algorithm/blob/master/Algorithm_java_idea/src/com/chaoxiong/niuke/huawei/ClassicsArithmetic.java) | 1. [创建线程](http://www.cnblogs.com/dolphin0520/p/3913517.html)  2.[优先队列](https://github.com/chaoxiongTian/algorithm/blob/master/Algorithm_java_idea/src/com/chaoxiong/niuke/huawei/priorityQueue.java) | 1页   |
-| 4.19(周四) | [坐标移动](https://github.com/chaoxiongTian/algorithm/blob/master/Algorithm_java_idea/src/com/chaoxiong/niuke/huawei/HuaWei_17.java) |                    0                     | 0页   |
-| 4.20(周五) | [String的常用函数](https://github.com/chaoxiongTian/algorithm/blob/master/Algorithm_java_idea/src/com/chaoxiong/niuke/huawei/StringUser.java) | [String 用法](https://www.cnblogs.com/xiaoxi/p/6036701.html) | 0页   |
-| 4.21(周六) |                    无                     | [关键字: transient](http://www.cnblogs.com/lanxuezaipiao/p/3369962.html) | 0页   |
-| 4.22(周日) |                                          |                                          |      |
-| 4.23(周一) |                                          |                                          |      |
-| 4.24(周二) |                    无                     |           [java 流]()  [编译过程]()           | 5页   |
-| 4.25(周三) |                                          |                                          |      |
-| 4.26(周四) |                                          |                                          |      |
-| 4.27(周五) |                                          |                                          |      |
-| 4.28(周六) |                                          |                                          |      |
-| 4.29(周日) |                                          |                                          |      |
-| 4.30(周一) |                                          |                                          |      |
-|          |                                          |                                          |      |
-|          |                                          |                                          |      |
 
