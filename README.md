@@ -17,7 +17,7 @@
 6. 理解 java ArrayList [文章地址](http://www.cnblogs.com/xiaoxi/p/6097932.html)
 7. 理解 java annotation[文章地址](https://blog.csdn.net/briblue/article/details/73824058)
 8. 理解 java 流的概念 [文章地址](https://blog.csdn.net/sunhuaqiang1/article/details/52756999) [文章2地址,详细讲操作](www.cnblogs.com/lich/archive/2011/12/11/2283700.html)
-9. List,Set和Map详解及其区别和他们分别适用的场景 [文章地址](https://blog.csdn.net/weixin_36380516/article/details/54908418)
+9. List,Set和Map详解及其区别和他们分别适用的场景 [文章地址](https://blog.csdn.net/weixin_36380516/article/details/54908418) [方法描述](https://blog.csdn.net/Luze_1226/article/details/70158932)
 
 #### 关键字相关:
 
@@ -27,8 +27,9 @@
 
 #### java 并发编程(线程与进程):
 
-1. 进程和线程产生的原因. [文章地址](http://www.cnblogs.com/dolphin0520/p/3910667.html)
-2. 如何创建线程[文章地址](http://www.cnblogs.com/dolphin0520/p/3913517.html)
+1. 进程和线程产生的原因. [文章地址](http://www.cnblogs.com/dolphin0520/p/3910667.html) [以操作系统的角度讲线程和进程](https://blog.csdn.net/luoweifu/article/details/46595285)
+2. 如何创建线程[文章地址](http://www.cnblogs.com/dolphin0520/p/3913517.html) [java中的多线程](https://blog.csdn.net/luoweifu/article/details/46673975)
+3. 多线程关键字 [Synchronized](https://blog.csdn.net/luoweifu/article/details/46613015)
 
 #### java 编程题(思路 与 指导)
 
@@ -36,9 +37,10 @@
 2. java 线程面试题 Top 50 [文章地址](http://www.cnblogs.com/dolphin0520/p/3958019.html)
 3. java PriorityQueue优先级队列使用方法(针对对象中某一项进行排序) [文章地址](https://blog.csdn.net/hiphopmattshi/article/details/7334487)  [代码案例](https://github.com/chaoxiongTian/algorithm/blob/master/Algorithm_java_idea/src/com/chaoxiong/niuke/huawei/priorityQueue.java)
 4. java中的TreeSet的使用 [文章地址](https://blog.csdn.net/xiaofei__/article/details/53138681) [代码地址](https://github.com/chaoxiongTian/algorithm/blob/master/Algorithm_java_idea/src/com/chaoxiong/niuke/huawei/CusTreeSet.java)
-5. 精选30道Java笔试题解答[文章地址](http://www.cnblogs.com/lanxuezaipiao/p/3371224.html)
-6. 编程面试的10大算法概念汇总 [文章地址](http://www.cnblogs.com/lanxuezaipiao/p/3447757.html)
-7. java编程思想重点笔记(java开发必看) [文章地址](http://www.cnblogs.com/lanxuezaipiao/p/4153070.html)
+5. Array排序 compareTo和Comparator [地址](https://blog.csdn.net/veryisjava/article/details/51675036)
+6. 精选30道Java笔试题解答[文章地址](http://www.cnblogs.com/lanxuezaipiao/p/3371224.html)
+7. 编程面试的10大算法概念汇总 [文章地址](http://www.cnblogs.com/lanxuezaipiao/p/3447757.html)
+8. java编程思想重点笔记(java开发必看) [文章地址](http://www.cnblogs.com/lanxuezaipiao/p/4153070.html)
 
 
 #### 经典算法
