@@ -20,6 +20,7 @@
 9. List,Set和Map详解及其区别和他们分别适用的场景 [文章地址](https://blog.csdn.net/weixin_36380516/article/details/54908418) [方法描述](https://blog.csdn.net/Luze_1226/article/details/70158932)
 10. HashMap的工作原理  [文章地址](http://www.importnew.com/7099.html)
 11. HashMap和HashSet的区别 [文章地址](http://www.importnew.com/6931.html)
+12. HashMap和LinkedHashMap的区别 [文章地址](http://www.cnblogs.com/yuexzh/p/7486264.html)
 
 #### 关键字相关:
 
