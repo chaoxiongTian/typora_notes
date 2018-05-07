@@ -1,4 +1,4 @@
-## typora_notes 知识点记录
+## java 知识点记录
 ### Android
 
 1. Android 通讯相关
