@@ -50,6 +50,7 @@
 
 1. [素数](https://github.com/chaoxiongTian/algorithm/blob/master/Algorithm_java_idea/src/com/chaoxiong/niuke/huawei/ClassicsArithmetic.java)
 2. [二进制中1的个数](https://github.com/chaoxiongTian/algorithm/blob/master/Algorithm_java_idea/src/com/chaoxiong/niuke/huawei/ClassicsArithmetic.java)
+3. [最长递增子序列相关问题(更新)](http://www.cnblogs.com/littlepanpc/p/7787932.html)
 
 
 
